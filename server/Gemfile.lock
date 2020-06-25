@@ -14,7 +14,7 @@ GEM
     minitest (5.10.3)
     mustermann (1.0.2)
     paint (2.0.0)
-    rack (2.0.8)
+    rack (2.2.3)
     rack-protection (2.0.3)
       rack
     sinatra (2.0.3)
